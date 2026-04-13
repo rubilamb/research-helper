@@ -3,8 +3,8 @@
 A **Claude Skill** that drafts academic
 research paper sections (Executive Summary, Introduction, Conclusion) using a
 citation-first, literature-grounded workflow. Optionally generates a
-**Methodology Annex** with diagrams, equations, and dataset specifications, and
-exports to **LaTeX/PDF** and/or **Word**.
+**Methodology Annex** with diagrams, equations, and dataset specifications to give a 
+research headstart, and exports to **LaTeX/PDF** and/or **Word**.
 
 Designed for empirical research in economics, business, and the social
 sciences, but field-agnostic.
