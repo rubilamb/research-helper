@@ -73,7 +73,7 @@ Loaded **on demand** (both modes): `methodology-annex-guide.md` (only if annex r
 
 ## INPUT Phase (ask ONE AT A TIME)
 
-1. ** Would you like to run in **Full mode** or **Light mode**?
+1. **"Would you like to run in **Full mode** or **Light mode?"**
 2. **"Which section: Executive Summary, Introduction, or Conclusion?"**
 3. **"What is your research topic or question?"** (skip if title detected)
 4. **"What field(s)?"** (skip if inferred from title)
