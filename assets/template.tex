@@ -1,0 +1,52 @@
+\documentclass[12pt, a4paper]{article}
+
+% --- Packages ---
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{mathptmx}                    % Times New Roman font
+\usepackage[margin=1in]{geometry}         % 1-inch margins
+\usepackage{setspace}                     % Line spacing
+\usepackage{amsmath, amssymb}             % Math environments
+\usepackage{graphicx}                     % Figures
+\usepackage{booktabs}                     % Professional tables
+\usepackage{natbib}                       % Author-year citations
+\usepackage{hyperref}                     % Clickable references
+\usepackage{float}                        % Figure placement
+\usepackage[labelfont=bf]{caption}        % Bold figure/table labels
+
+% --- Hyperref setup ---
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    citecolor=blue,
+    urlcolor=blue
+}
+
+% --- Spacing ---
+\onehalfspacing
+
+% --- Title block ---
+\title{%TITLE%}
+\author{%AUTHOR%}
+\date{%DATE%}
+
+\begin{document}
+
+\maketitle
+
+% --- Abstract (optional) ---
+% \begin{abstract}
+% %ABSTRACT%
+% \end{abstract}
+
+% --- Sections ---
+% Each section placeholder is replaced by the skill.
+% Only include sections that were drafted.
+
+%CONTENT%
+
+% --- Bibliography ---
+\bibliographystyle{apalike}
+\bibliography{references}
+
+\end{document}
