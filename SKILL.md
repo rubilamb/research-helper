@@ -12,7 +12,6 @@ description: |
   or provides a paper title after the command.
   If text follows /research-helper, treat it as the paper title and
   research topic. Pre-populate silently, confirm with user.
-  DO NOT trigger for: presentation slides, grant proposals, referee reports.
 ---
 
 # Research Helper
