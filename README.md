@@ -1,6 +1,6 @@
 # Research Helper
 
-A [Claude Code](https://claude.com/claude-code) **skill** that drafts academic
+A **Claude Skill** that drafts academic
 research paper sections (Executive Summary, Introduction, Conclusion) using a
 citation-first, literature-grounded workflow. Optionally generates a
 **Methodology Annex** with diagrams, equations, and dataset specifications, and
