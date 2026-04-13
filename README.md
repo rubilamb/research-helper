@@ -213,12 +213,6 @@ Methodology Annex.
 
 ---
 
-## License
-
-MIT.
-
----
-
 ## Author
 
 Built by [@rubilamb](https://github.com/rubilamb).
