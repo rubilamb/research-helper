@@ -146,7 +146,6 @@ annex is requested).
 ```
 research-helper/
 ├── SKILL.md                  Skill manifest + pipeline definition
-├── README.md                 This file
 ├── assets/
 │   └── template.tex          LaTeX template used by build.py
 ├── references/               Tier-3 reference files, loaded on demand
